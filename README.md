@@ -210,3 +210,21 @@ python gui_app.py
 ```
 
 This will launch the "University Record Management System" application in its own graphical window.
+
+## 5. Running the Tests
+
+1. Run the Integration Test from your activated virtual environment:
+
+```bash
+python Intergration_Testing_advanced_queries.py
+```
+
+This will launch the Integration Test of the application.
+
+2. Run the Unit Test from your activated virtual environment:
+
+```bash
+python test_app_logic.py
+```
+
+This will launch the Unit Test of the application.
